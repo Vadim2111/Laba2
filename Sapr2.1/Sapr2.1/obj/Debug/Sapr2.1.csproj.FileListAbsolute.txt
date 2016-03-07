@@ -1,0 +1,6 @@
+c:\users\вадим\documents\visual studio 2015\Projects\Sapr2.1\Sapr2.1\bin\Debug\Sapr2.1.exe.config
+C:\Users\Вадим\documents\visual studio 2015\Projects\Sapr2.1\Sapr2.1\bin\Debug\Sapr2.1.exe
+C:\Users\Вадим\documents\visual studio 2015\Projects\Sapr2.1\Sapr2.1\bin\Debug\Sapr2.1.pdb
+C:\Users\Вадим\documents\visual studio 2015\Projects\Sapr2.1\Sapr2.1\obj\Debug\Sapr2.1.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\documents\visual studio 2015\Projects\Sapr2.1\Sapr2.1\obj\Debug\Sapr2.1.exe
+C:\Users\Вадим\documents\visual studio 2015\Projects\Sapr2.1\Sapr2.1\obj\Debug\Sapr2.1.pdb

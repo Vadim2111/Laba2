@@ -1,0 +1,6 @@
+c:\users\вадим\documents\visual studio 2015\Projects\sapr2_2\sapr2_2\bin\Debug\sapr2_2.exe.config
+c:\users\вадим\documents\visual studio 2015\Projects\sapr2_2\sapr2_2\bin\Debug\sapr2_2.exe
+c:\users\вадим\documents\visual studio 2015\Projects\sapr2_2\sapr2_2\bin\Debug\sapr2_2.pdb
+c:\users\вадим\documents\visual studio 2015\Projects\sapr2_2\sapr2_2\obj\Debug\sapr2_2.csprojResolveAssemblyReference.cache
+c:\users\вадим\documents\visual studio 2015\Projects\sapr2_2\sapr2_2\obj\Debug\sapr2_2.exe
+c:\users\вадим\documents\visual studio 2015\Projects\sapr2_2\sapr2_2\obj\Debug\sapr2_2.pdb
